@@ -1,0 +1,4 @@
+/stress-test
+*.exe
+*.test
+*.out
